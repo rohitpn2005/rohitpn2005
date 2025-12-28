@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-Hi, I'm **Rohit Praveen Nair** — an AI & Data Science student who builds models that understand humans, optimize paths, and occasionally test my patience. My work focuses on solving real problems while keeping things interpretable, efficient, and sustainable (aka: *making AI useful, not mysterious*).  
+Hi, I'm **Rohit Praveen Nair** - an AI & Data Science student who builds models that understand humans, optimize paths, and occasionally test my patience. My work focuses on solving real problems while keeping things interpretable, efficient, and sustainable (aka: *making AI useful, not mysterious*).  
 
 ---
 
 ### 🧠 About Me
 - 🎓 **B.Tech CSE (Artificial Intelligence)** @ Amrita Vishwa Vidyapeetham, Bangalore
 - 📘 **B.Sc Data Science** @ IIT Madras (BS Degree) 
-- 🚀 Hackathons, research papers, and club leadership — I collect them like Pokémon badges
+- 🚀 Hackathons, research papers, and club leadership ( I collect them like Pokémon badges)
 - 💡 Currently into AI that tracks eyes, speech, clouds, viruses, and anything else I can responsibly analyze
 - ⏱ Fixing my time management one **time-block** at a time
 
