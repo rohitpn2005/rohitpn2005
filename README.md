@@ -43,35 +43,21 @@ Compared **DNN vs CNN-BiLSTM** on HuBERT embeddings + acoustic features, validat
 
 ---
 
-### 📄 Publications
-- **IEEE SENNET 2025**: Monkeypox epitope prediction with toxicity assessment + LLM explanations (95.85% accuracy)
-- **IMPeC 2025**: Football player performance analysis using **PCA + SVM classification**
-
----
-
 ### 🏆 Achievements & Leadership
 - 🥉 **3rd Place – Startathon 2025**, AMAL Club, Amrita
 - 🥉 **3rd Place – Hack Your Life**, Dastaan Multifest 2025
 - 💼 Former **Treasurer – Narthana Club**
 - 🧑‍💻 Executive roles at **FACE** and **NSDC** (workshops, marketing, co-curricular events)
-  
----
 
+---
 ### 📫 Connect With Me
-- GitHub: *You are here*
 - LinkedIn: www.linkedin.com/in/rohit-praveen-nair
 - Email: rohitpnair7@gmail.com
 ---
-
 ### 🌱 Current Focus Areas
 - Self-supervised speech intelligence
 - Clinical AI screening systems
 - Sustainable cloud workload scheduling
 - Explainable ML and scout-driven analytics
-
 ---
-
-> *I build AI systems that learn patterns.*  
-> *I avoid building systems that learn biases.*  
-> *Still working on systems that learn my sleep cycle.*  
 
