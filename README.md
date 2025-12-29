@@ -1,4 +1,4 @@
-## Hi there 👋
+## Profile 
 
 Hi, I'm **Rohit Praveen Nair** - an AI & Data Science student who builds models that understand humans, optimize paths, and occasionally test my patience. My work focuses on solving real problems while keeping things interpretable, efficient, and sustainable (aka: *making AI useful, not mysterious*).  
 
