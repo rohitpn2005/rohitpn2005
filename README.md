@@ -1,6 +1,7 @@
 ## Profile 
 
 Hi, I'm **Rohit Praveen Nair** - an AI & Data Science student who builds models that understand humans, optimize paths, and occasionally test my patience. My work focuses on solving real problems while keeping things interpretable, efficient, and sustainable (aka: *making AI useful, not mysterious*).  
+Check Out my Portfolio SIte - https://rohit-nair-portfolio.lovable.app
 
 ---
 
@@ -53,6 +54,7 @@ Compared **DNN vs CNN-BiLSTM** on HuBERT embeddings + acoustic features, validat
 ### 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/rohit-praveen-nair
 - Email: rohitpnair7@gmail.com
+- Portfolio: https://rohit-nair-portfolio.lovable.app
 ---
 ### 🌱 Current Focus Areas
 - Self-supervised speech intelligence
