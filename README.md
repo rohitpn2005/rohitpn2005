@@ -55,6 +55,7 @@ Compared **DNN vs CNN-BiLSTM** on HuBERT embeddings + acoustic features, validat
 - LinkedIn: www.linkedin.com/in/rohit-praveen-nair
 - Email: rohitpnair7@gmail.com
 - Portfolio: https://rohit-nair-portfolio.lovable.app
+- Medium: https://medium.com/@rohitpnair7
 ---
 ### 🌱 Current Focus Areas
 - Self-supervised speech intelligence
